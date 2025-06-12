@@ -1,6 +1,6 @@
 ---
 title: "Post With Code"
-author: "Harlow Malloc"
+author: "Taksh Patel"
 date: "2025-06-12"
 categories: [news, code, analysis]
 image: "image.jpg"
